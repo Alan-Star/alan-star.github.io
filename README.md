@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## 勇士，欢迎你来到科大讯飞平板破解之家
 
-You can use the [editor on GitHub](https://github.com/Alan-Star/alan-star.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+本站只提供免费破解服务！！
+你想要的，这里都有
 
 ### Markdown
 
