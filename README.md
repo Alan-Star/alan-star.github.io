@@ -3,29 +3,29 @@
 本站只提供免费破解服务！！
 你想要的，这里都有
 
-### Markdown
+### 我们的任务是破解科大讯飞平板😱
+本站资源一律免费！！！
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+你想要东西的就在这里，不怕死的勇士就大胆拿去吧！
+
+
+注：适用于美帝良心想TB-XXXXX系列
+请点击阅读全文！！
 
 ```markdown
-Syntax highlighted code block
+领创系统线刷包(IFY)：
+https://drive.google.com/open?id=1-nb82cBzH_zPGV1gM366Ta5jJunA1tRn
+智慧课堂线刷包（IFM）
+https://drive.google.com/open?id=1-KaZrG4Jtzff9IR_MiZ4YnY0c_mWb0UL
+正常系统TWRP备份包（EDU）、
+https://drive.google.com/open?id=1-9__ZQhsvGwhNf4YKPGK90t71XLeVvE4
+科大讯飞学生软件全家桶
+https://drive.google.com/open?id=1-s-YK2Xkwygvx8oYPcVSoEBhw29kqaB5
+最新最完美的系统
+https://drive.google.com/open?id=1_7qLYCxBkZxmFQ01xOwQFCUxhjXa7gRS
 
-# Header 1
-## Header 2
-### Header 3
+注：适用于美帝良心想TB-XXXXX系列
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
