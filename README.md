@@ -34,6 +34,16 @@ https://drive.google.com/open?id=1_7qLYCxBkZxmFQ01xOwQFCUxhjXa7gRS
 
 
 注：适用于美帝良心想TB-XXXXX系列
+下载时请检查网络配置是否正确，若有问题，请联系本文作者
+
+
 联系站长：
+
+github: Alan-Star
+
 QQ：2404320281
+
+B站：https://space.bilibili.com/481224375
+
+
 
