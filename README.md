@@ -32,7 +32,7 @@ https://drive.google.com/open?id=1-KaZrG4Jtzff9IR_MiZ4YnY0c_mWb0UL
 
 正常系统TWRP备份包（EDU）、（兼容性最好，推荐使用！）
 
-https://drive.google.com/open?id=1-9__ZQhsvGwhNf4YKPGK90t71XLeVvE4
+# https://drive.google.com/open?id=1-9__ZQhsvGwhNf4YKPGK90t71XLeVvE4
 
 科大讯飞学生机软件领创全家桶
 
