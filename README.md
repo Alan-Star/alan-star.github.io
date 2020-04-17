@@ -5,6 +5,11 @@
 科大讯飞平板刷机包，平板内的软件···
 ### 我们的任务是破解科大讯飞平板😱
 本站资源一律免费！！！
+
+不接受任何捐助！
+
+不接受任何捐助！！！
+
 官方博客https://uniflytek.blogspot.com/
 
 你想要东西的就在这里，不怕死的勇士就大胆拿去吧！
@@ -24,7 +29,7 @@ https://drive.google.com/open?id=1-nb82cBzH_zPGV1gM366Ta5jJunA1tRn
   
 https://drive.google.com/open?id=1-KaZrG4Jtzff9IR_MiZ4YnY0c_mWb0UL
 
-正常系统TWRP备份包（EDU）、
+正常系统TWRP备份包（EDU）、（兼容性最好，推荐使用！）
 
 https://drive.google.com/open?id=1-9__ZQhsvGwhNf4YKPGK90t71XLeVvE4
 
@@ -36,7 +41,7 @@ https://drive.google.com/open?id=1-s-YK2Xkwygvx8oYPcVSoEBhw29kqaB5
 
 https://drive.google.com/open?id=14z_c_DmFHYDxpDizbG3wpoDztOzZBUd7
 
-最新最完美的系统
+最新的系统（ 有兴趣的可以玩玩，国外的一名小伙子搞的，性能还可以）
 
 https://drive.google.com/open?id=1_7qLYCxBkZxmFQ01xOwQFCUxhjXa7gRS
 
