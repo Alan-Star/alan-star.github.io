@@ -52,15 +52,13 @@ https://drive.google.com/open?id=1_7qLYCxBkZxmFQ01xOwQFCUxhjXa7gRS
 注：适用于美帝良心想TB-XXXXX系列
 下载时请检查网络配置是否正确，若有问题，请联系本文作者
 
-或访问官方博客https://uniflytek.blogspot.com/
-
+或访问官方博客
 联系站长：
 
-github: Alan-Star
+github: Alan-Star issue评论
 
-QQ：2404320281
+邮箱：alanstar388@gmail.com
 
-B站：https://space.bilibili.com/481224375
 
 ### 本站资源来之不易，由各路大神冒死提供，站长只是提供了一个安全，快速的下载平台。
 
