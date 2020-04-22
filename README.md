@@ -28,7 +28,7 @@
 
 https://drive.google.com/open?id=1-nb82cBzH_zPGV1gM366Ta5jJunA1tRn
 
-  智慧课堂线刷包（IFM）
+  智慧课堂线刷包（IFM）(如果你想做回好学生，就下载这个)
   
 https://drive.google.com/open?id=1-KaZrG4Jtzff9IR_MiZ4YnY0c_mWb0UL
 
