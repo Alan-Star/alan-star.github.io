@@ -26,27 +26,30 @@
 
 领创系统线刷包(IFY)：
 <a href="https://drive.google.com/open?id=1-nb82cBzH_zPGV1gM366Ta5jJunA1tRn" target="" title="高速下载">高速下载</a>
-https://drive.google.com/open?id=1-nb82cBzH_zPGV1gM366Ta5jJunA1tRn
+
 
   智慧课堂线刷包（IFM）(如果你想做回好学生，就下载这个)
-  
-https://drive.google.com/open?id=1-KaZrG4Jtzff9IR_MiZ4YnY0c_mWb0UL
+  <a href="https://drive.google.com/open?id=1-KaZrG4Jtzff9IR_MiZ4YnY0c_mWb0UL" target="" title="快速下载">快速下载</a>
+
 
 正常系统TWRP备份包（EDU）、（兼容性最好，推荐使用！）
+ <a href="https://drive.google.com/open?id=1-9__ZQhsvGwhNf4YKPGK90t71XLeVvE4" target="" title="极速下载">极速下载</a>
 
-# https://drive.google.com/open?id=1-9__ZQhsvGwhNf4YKPGK90t71XLeVvE4
+ 
 
 科大讯飞学生机软件领创全家桶
+ <a href="https://drive.google.com/open?id=1-s-YK2Xkwygvx8oYPcVSoEBhw29kqaB5" target="" title="安全下载">安全下载</a>
 
-https://drive.google.com/open?id=1-s-YK2Xkwygvx8oYPcVSoEBhw29kqaB5
 
 科大讯飞智慧课堂软件系列（IFM）
-
-https://drive.google.com/open?id=14z_c_DmFHYDxpDizbG3wpoDztOzZBUd7
+<a href="https://drive.google.com/open?id=14z_c_DmFHYDxpDizbG3wpoDztOzZBUd7" target="" title="官方下载">安全下载</a>
 
 最新的系统（ 有兴趣的可以玩玩，国外的一名小伙子搞的，性能还可以）
+<a href="https://drive.google.com/open?id=1_7qLYCxBkZxmFQ01xOwQFCUxhjXa7gRS" target="" title="官方下载">普通下载</a>
 
-https://drive.google.com/open?id=1_7qLYCxBkZxmFQ01xOwQFCUxhjXa7gRS
+
+<a href="https://xn--4gq0a0fu2dz08a3ji5yc0x4bshfe08a.mfwt.xyz/" target="" title="某大佬的喵站">某大佬的喵站</a>
+ 
 
 
 注：适用于美帝良心想TB-XXXXX系列
