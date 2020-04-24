@@ -13,11 +13,6 @@
 
 本站仅提供技术爱好者学习交流！！
 
-你想要的，这里都有
-科大讯飞平板刷机包，平板内的软件···
-😱
-
-### 开源，自由，共享，开放的互联网精神需要传承，所以本站资源永远免费下载！！！
 
 ## 本站站长没有参与任何破解研发，只是从网上收集了相关资源，所以不接受任何捐助！
 
@@ -25,30 +20,31 @@
 
 
 领创系统线刷包(IFY)：
-<a href="https://drive.google.com/open?id=1-nb82cBzH_zPGV1gM366Ta5jJunA1tRn" target="" title="高速下载">高速下载</a>
+<a href="https://drive.google.com/open?id=1-nb82cBzH_zPGV1gM366Ta5jJunA1tRn" target="_blank_blank_blank_blank" title="高速下载">高速下载</a>
 
 
   智慧课堂线刷包（IFM）(如果你想做回好学生，就下载这个)
-  <a href="https://drive.google.com/open?id=1-KaZrG4Jtzff9IR_MiZ4YnY0c_mWb0UL" target="" title="快速下载">快速下载</a>
+  <a href="https://drive.google.com/open?id=1-KaZrG4Jtzff9IR_MiZ4YnY0c_mWb0UL" target="_blank_blank_blank" title="快速下载">快速下载</a>
 
 
 正常系统TWRP备份包（EDU）、（兼容性最好，推荐使用！）
- <a href="https://drive.google.com/open?id=1-9__ZQhsvGwhNf4YKPGK90t71XLeVvE4" target="" title="极速下载">极速下载</a>
+ <a href="https://drive.google.com/open?id=1-9__ZQhsvGwhNf4YKPGK90t71XLeVvE4" target="_blank_blank" title="极速下载">极速下载</a>
 
  
 
 科大讯飞学生机软件领创全家桶
- <a href="https://drive.google.com/open?id=1-s-YK2Xkwygvx8oYPcVSoEBhw29kqaB5" target="" title="安全下载">安全下载</a>
+ <a href="https://drive.google.com/open?id=1-s-YK2Xkwygvx8oYPcVSoEBhw29kqaB5" target="_blank" title="安全下载">安全下载</a>
 
 
 科大讯飞智慧课堂软件系列（IFM）
-<a href="https://drive.google.com/open?id=14z_c_DmFHYDxpDizbG3wpoDztOzZBUd7" target="" title="官方下载">安全下载</a>
+<a href="https://drive.google.com/open?id=14z_c_DmFHYDxpDizbG3wpoDztOzZBUd7" target="_blank" title="官方下载">官方下载</a>
 
 最新的系统（ 有兴趣的可以玩玩，国外的一名小伙子搞的，性能还可以）
-<a href="https://drive.google.com/open?id=1_7qLYCxBkZxmFQ01xOwQFCUxhjXa7gRS" target="" title="官方下载">普通下载</a>
+<a href="https://drive.google.com/open?id=1_7qLYCxBkZxmFQ01xOwQFCUxhjXa7gRS" target="_blank" title="普通下载">普通下载</a>
 
 
-<a href="https://xn--4gq0a0fu2dz08a3ji5yc0x4bshfe08a.mfwt.xyz/" target="" title="某大佬的喵站">某大佬的喵站</a>
+
+### 站长推广 <a href="https://xn--4gq0a0fu2dz08a3ji5yc0x4bshfe08a.mfwt.xyz/" target="_blank" title="某大佬的喵站">某大佬的喵站</a>
  
 
 
