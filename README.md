@@ -1,23 +1,8 @@
 ## 勇士，欢迎你来到爱讯飞官网
 
-# 我们的目标是用人工智能建设美好世界
-
-### 讯飞好，科大讯飞讯飞美
+### 讯飞好，讯飞美
 
 ### 讯飞为国增光辉~~~~~
-
-### 讯飞为我增智慧
-
-
-
-
-本站仅提供技术爱好者学习交流！！
-
-
-## 本站站长没有参与任何破解研发，只是从网上收集了相关资源，所以不接受任何捐助！
-
-
-
 
 领创系统线刷包(IFY)：
 <a href="https://drive.google.com/open?id=1-nb82cBzH_zPGV1gM366Ta5jJunA1tRn" target="_blank_blank_blank_blank" title="高速下载">高速下载</a>
@@ -44,16 +29,14 @@
 
 
 
-### 站长推广 <a href="https://xn--4gq0a0fu2dz08a3ji5yc0x4bshfe08a.mfwt.xyz/" target="_blank" title="某大佬的喵站">某大佬的喵站</a>
+### 站长推广: <a href="https://xn--4gq0a0fu2dz08a3ji5yc0x4bshfe08a.mfwt.xyz/" target="_blank" title="某大佬的喵站">某大佬的喵站</a>
  
 
 
 注：适用于美帝良心想TB-XXXXX系列（Lenovo TB-8X04F）
 
 所有资源都在最快的404网盘（Google Drive）
-#下载时请检查
-# 网络配置
-是否正确
+## 下载时请检查网络配置是否正确
 
 
 联系站长：
@@ -61,6 +44,11 @@
 github: Alan-Star issue评论
 
 邮箱：alanstar388@gmail.com
+本站仅提供技术爱好者学习交流！！
+
+
+## 本站站长没有参与任何破解研发，只是从网上收集了相关资源，所以不接受任何捐助！
+
 
 ## <a href="https://github.com/Alan-Star/alan-star.github.io/blob/master/fff.html" target="_blank" title="了解更多">了解更多</a>
 
