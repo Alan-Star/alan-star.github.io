@@ -7,6 +7,7 @@
 领创系统线刷包(IFY)：
 <a href="https://drive.google.com/open?id=1-nb82cBzH_zPGV1gM366Ta5jJunA1tRn" target="_blank_blank_blank_blank" title="高速下载">高速下载</a>
 
+### 站长推广: <a href="https://mfwt.xyz" target="_blank" title="某大佬的喵站">某大佬的喵站</a>
 
   智慧课堂线刷包（IFM）(如果你想做回好学生，就下载这个)
   <a href="https://drive.google.com/open?id=1-KaZrG4Jtzff9IR_MiZ4YnY0c_mWb0UL" target="_blank_blank_blank" title="快速下载">快速下载</a>
@@ -15,7 +16,8 @@
 正常系统TWRP备份包（EDU）、（兼容性最好，推荐使用！）
  <a href="https://drive.google.com/open?id=1-9__ZQhsvGwhNf4YKPGK90t71XLeVvE4" target="_blank_blank" title="极速下载">极速下载</a>
 
- 
+ ### 站长推广 <a href="https://251.icu" target="_blank" title="我们爱华为">我们爱华为</a>
+
 
 科大讯飞学生机软件领创全家桶
  <a href="https://drive.google.com/open?id=1-s-YK2Xkwygvx8oYPcVSoEBhw29kqaB5" target="_blank" title="安全下载">安全下载</a>
@@ -23,17 +25,14 @@
 
 科大讯飞智慧课堂软件系列（IFM）
 <a href="https://drive.google.com/open?id=14z_c_DmFHYDxpDizbG3wpoDztOzZBUd7" target="_blank" title="官方下载">官方下载</a>
-
+### 站长推广 <a href="https://www.iflytek.com/index.html" target="_blank" title="获取科大讯飞平板的信息">获取科大讯飞平板的信息</a>
 最新的系统（ 有兴趣的可以玩玩，国外的一名小伙子搞的，性能还可以）
 <a href="https://drive.google.com/open?id=1_7qLYCxBkZxmFQ01xOwQFCUxhjXa7gRS" target="_blank" title="普通下载">普通下载</a>
 
 
 
-### 站长推广: <a href="https://mfwt.xyz" target="_blank" title="某大佬的喵站">某大佬的喵站</a>
 
-###  <a href="https://251.icu" target="_blank" title="我们爱华为">我们爱华为</a>
 
-### <a href="https://www.iflytek.com/index.html" target="_blank" title="获取科大讯飞平板的信息">获取科大讯飞平板的信息</a>
 
  
 
