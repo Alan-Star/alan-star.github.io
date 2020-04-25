@@ -31,9 +31,9 @@
 
 ### 站长推广: <a href="https://mfwt.xyz" target="_blank" title="某大佬的喵站">某大佬的喵站</a>
 
-###  <a href="https://251.icu" target="_blank" title="爱华为">爱华为</a>
+###  <a href="https://251.icu" target="_blank" title="我们爱华为">我们爱华为</a>
 
-### <a href="https://iflytek.com" target="_blank" title="获取科大讯飞平板的信息">获取科大讯飞平板的信息</a>
+### <a href="https://www.iflytek.com/index.html" target="_blank" title="获取科大讯飞平板的信息">获取科大讯飞平板的信息</a>
 
  
 
