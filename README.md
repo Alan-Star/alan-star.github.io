@@ -54,7 +54,7 @@ github: Alan-Star issue评论
 ## 本站站长没有参与任何破解研发，只是从网上收集了相关资源，所以不接受任何捐助！
 
 
-## <a href="https://github.com/Alan-Star/alan-star.github.io/blob/master/fff.html/" target="_blank" title="了解更多">了解更多</a>
+## <a href="https://github.com/Alan-Star/alan-star.github.io/blob/master/fff.htm/" target="_blank" title="了解更多">了解更多</a>
 
 
 
