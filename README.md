@@ -31,9 +31,7 @@
 
 ### 站长推广 <a href="https://www.iflytek.com/index.html" target="_blank" title="获取科大讯飞平板的信息">获取科大讯飞平板的信息</a>
 最新的系统（ 有兴趣的可以玩玩，国外的一名小伙子搞的，性能还可以）
-<a href="https://drive.google.com/open?id=1_7qLYCxBkZxmFQ01xOwQFCUxhjXa7gRS" target="_blank" title="高速下载">高速下载</a>
-
-<a href="https://alanstar.lanzous.com/ibzlo2d" target="_blank_blank_blank_blank" title="普通下载">普通下载</a>
+<a href="https://drive.google.com/open?id=1_7qLYCxBkZxmFQ01xOwQFCUxhjXa7gRS" target="_blank" title="高速下载">高速下载</a><a href="https://alanstar.lanzous.com/ibzlo2d" target="_blank_blank_blank_blank" title="普通下载">普通下载</a>
 
 
 
