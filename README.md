@@ -1,23 +1,11 @@
 ## 勇士，欢迎你来到爱讯飞官网
 
-### 讯飞好，讯飞美
 
-### 讯飞为国增光辉~~~~~
-
-领创系统线刷包(IFY)：
-<a href="https://drive.google.com/open?id=1-nb82cBzH_zPGV1gM366Ta5jJunA1tRn" target="_blank_blank_blank_blank" title="高速下载">高速下载</a>  <a href="https://alanstar.lanzous.com/ibzlo2d" target="_blank_blank_blank_blank" title="普通下载">普通下载</a>
-
-### 站长推广: <a href="https://mfwt.xyz" target="_blank" title="某大佬的喵站">某大佬的喵站</a>
-
-  智慧课堂线刷包（IFM）(如果你想做回好学生，就下载这个)
-  <a href="https://drive.google.com/open?id=1-KaZrG4Jtzff9IR_MiZ4YnY0c_mWb0UL" target="_blank_blank_blank" title="快速下载">快速下载</a>
-  <a href="https://alanstar.lanzous.com/ibzlo2d" target="_blank_blank_blank_blank" title="普通下载">普通下载</a>
-
-
-
-正常系统TWRP备份包（EDU）、（兼容性最好，推荐使用！）
- <a href="https://drive.google.com/open?id=1-9__ZQhsvGwhNf4YKPGK90t71XLeVvE4" target="_blank_blank" title="极速下载">极速下载</a>
- <a href="https://alanstar.lanzous.com/ibzlo2d" target="_blank_blank_blank_blank" title="普通下载">普通下载</a>
+<a href="https://mirrors.lolinet.com/firmware/lenovo/TB-8504X/TB-8504X_USR_S001031_1912041525_Q12000_ROW.zip" title="联想官方正版系统下载">联想官方正版系统一键下载</a>
+<a href="https://drive.google.com/open?id=1-nb82cBzH_zPGV1gM366Ta5jJunA1tRn" target="_blank_blank_blank_blank" title="领创原版系统下载(IFY)">领创系统下载</a>
+<a href="https://drive.google.com/open?id=1-KaZrG4Jtzff9IR_MiZ4YnY0c_mWb0UL" target="_blank_blank_blank" title="智慧课堂正版系统下载（IFM）">智慧课堂系统一键下载</a>
+ <a href="https://drive.google.com/open?id=1_7qLYCxBkZxmFQ01xOwQFCUxhjXa7gRS" target="_blank" title="第三方破解版下载">第三方破解版下载</a> 
+<a href="https://drive.google.com/open?id=1-9__ZQhsvGwhNf4YKPGK90t71XLeVvE4" target="_blank_blank" title="官方破解版下载（EDU）">极速下载</a>
 
 
 
@@ -31,10 +19,9 @@
 <a href="https://alanstar.lanzous.com/ibzlo2d" target="_blank_blank_blank_blank" title="普通下载">普通下载</a>
 
 ### 站长推广 <a href="https://www.iflytek.com/index.html" target="_blank" title="获取科大讯飞平板的信息">获取科大讯飞平板的信息</a>
-最新的系统（ 有兴趣的可以玩玩，国外的一名小伙子搞的，性能还可以）
-<a href="https://drive.google.com/open?id=1_7qLYCxBkZxmFQ01xOwQFCUxhjXa7gRS" target="_blank" title="高速下载">高速下载</a>  <a href="https://alanstar.lanzous.com/ibzlo2d" target="_blank_blank_blank_blank" title="普通下载">普通下载</a>
+最 <a href="https://alanstar.lanzous.com/ibzlo2d" target="_blank_blank_blank_blank" title="普通下载">普通下载</a>
 
-
+### 站长推广: <a href="https://mfwt.xyz" target="_blank" title="某大佬的喵站">某大佬的喵站</a>
 
 
 
