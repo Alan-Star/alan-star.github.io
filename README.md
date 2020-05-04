@@ -4,15 +4,15 @@
 
 在使用过程中产生的一切 设备损坏与人员伤亡与站长无关
 
+
 ----------------------------------------------------------------------------------------------------------------------------------------
-<iframe src="//player.bilibili.com/player.html?aid=81502772&;amp;cid=139471736&amp;page=1" scrolling=”no” border=”0″ frameborder=”no” framespacing=”0″ allowfullscreen=”true” style=”width: 100%; height: 500px; max-width: 100%；align:center; padding:20px 0;”>  </iframe>
 
 #### TB-8X04F系列
 # <a href="https://alanstar.lanzous.com/ibjg6sf" title="刷机工具安全下载">刷机工具安全下载</a>
 
-<a href="https://drive.google.com/open?id=1-9__ZQhsvGwhNf4YKPGK90t71XLeVvE4" target="_blank_blank" title="官方破解版下载（EDU）">破解版安全下载</a>
+# <a href="https://drive.google.com/open?id=1-9__ZQhsvGwhNf4YKPGK90t71XLeVvE4" target="_blank_blank" title="官方破解版免费下载（EDU）">官方破解版免费下载</a>
 
-<a href="https://drive.google.com/open?id=1-nb82cBzH_zPGV1gM366Ta5jJunA1tRn" target="_blank_blank_blank_blank" title="领创原版系统下载(IFY)">领创系统下载</a>
+<a href="https://drive.google.com/open?id=1-nb82cBzH_zPGV1gM366Ta5jJunA1tRn" target="_blank_blank_blank_blank" title="领创原版系统高速下载(IFY)">领创系统高速下载</a>
 
 <a href="https://drive.google.com/open?id=1-KaZrG4Jtzff9IR_MiZ4YnY0c_mWb0UL" target="_blank_blank_blank" title="智慧课堂正版系统下载（IFM）">智慧课堂系统一键下载</a>
 
