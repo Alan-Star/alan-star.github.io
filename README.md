@@ -1,4 +1,4 @@
-## 勇士，欢迎你来到爱讯飞官网#
+## 勇士，欢迎你来到讯飞平板资源下载站#
 
 本站资源仅供学习研究，可以适当拓展学校的平板的功能，请谨慎使用！
 
@@ -34,7 +34,10 @@
 # <a href="https://mirrors.lolinet.com/" target="_blank" title="获取更多型号刷机包">获取更多型号刷机包</a>
 
 友情推广 ：
-<a href="https://smllog.com/" target="_blank" title="平版无法上网">平版无法上网</a>
+<a href="https://smllog.com/" target="_blank" title="平版无法上网怎么办？">平版无法上网怎么办？</a>
+
+<a href="https://bbs.hltech.icu/" target="_blank" title="平版不能刷机怎么办？">平版不能刷机怎么办？</a>
+
 
 <a href="https://mfwt.xyz" target="_blank" title="某大佬的喵站">某大佬的喵站</a>
 
