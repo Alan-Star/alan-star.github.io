@@ -5,9 +5,11 @@
 在使用过程中产生的一切 设备损坏与人员伤亡与站长无关
 
 ----------------------------------------------------------------------------------------------------------------------------------------
-
+ ## 暴力测评<iframe src="//player.bilibili.com/player.html?aid=94412744&bvid=BV1RE411u7So&cid=161169784&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 #### TB-8X04F系列
-# <a href="https://mirrors.lolinet.com/firmware/lenovo/TB-8504X/TB-8504X_USR_S001031_1912041525_Q12000_ROW.zip" title="联想官方正版系统下载">联想官方正版系统一键下载</a>
+# <a href="https://alanstar.lanzous.com/ibjg6sf" title="刷机工具安全下载">刷机工具安全下载</a>
+
+<a href="https://drive.google.com/open?id=1-9__ZQhsvGwhNf4YKPGK90t71XLeVvE4" target="_blank_blank" title="官方破解版下载（EDU）">破解版安全下载</a>
 
 <a href="https://drive.google.com/open?id=1-nb82cBzH_zPGV1gM366Ta5jJunA1tRn" target="_blank_blank_blank_blank" title="领创原版系统下载(IFY)">领创系统下载</a>
 
@@ -15,7 +17,7 @@
 
  <a href="https://drive.google.com/open?id=1_7qLYCxBkZxmFQ01xOwQFCUxhjXa7gRS" target="_blank" title="第三方破解版下载">第三方破解版下载</a>
  
-<a href="https://drive.google.com/open?id=1-9__ZQhsvGwhNf4YKPGK90t71XLeVvE4" target="_blank_blank" title="官方破解版下载（EDU）">极速下载</a>
+
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 科大讯飞软件系列
@@ -54,11 +56,5 @@ github: Alan-Star issue评论
 
 
 ## 本站站长没有参与任何破解研发，只是从网上收集了相关资源，所以不接受任何捐助！
-
-
-## <a href="https://github.com/Alan-Star/alan-star.github.io/blob/master/fff.htm/" target="_blank" title="了解更多">了解更多</a>
-
-
-
 
 
