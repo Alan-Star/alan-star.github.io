@@ -14,7 +14,7 @@
 
 <a href="https://drive.google.com/open?id=1-nb82cBzH_zPGV1gM366Ta5jJunA1tRn" target="_blank_blank_blank_blank" title="领创原版系统高速下载(IFY)">领创系统高速下载</a>
 
-<a href="https://drive.google.com/open?id=1-KaZrG4Jtzff9IR_MiZ4YnY0c_mWb0UL" target="_blank_blank_blank" title="智慧课堂正版系统下载（IFM）">智慧课堂系统一键下载</a>
+<a href="https://drive.google.com/open?id=1-KaZrG4Jtzff9IR_MiZ4YnY0c_mWb0UL" target="_blank_blank_blank" title="智慧课堂正版系统下载（IFM）">智慧课堂系统一键下载</a>（如果你已破解，请立刻下载这个刷机包，马上还原！，否则...）
 
  <a href="https://drive.google.com/open?id=1_7qLYCxBkZxmFQ01xOwQFCUxhjXa7gRS" target="_blank" title="第三方破解版下载">第三方破解版下载</a>
  
