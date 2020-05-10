@@ -10,6 +10,8 @@
 #### TB-8X04F刷机包系列
 # <a href="https://alanstar.lanzous.com/ibjg6sf" title="刷机工具安全下载">刷机工具安全下载</a>
 
+<a href="https://github.com/Alan-Star/alan-star.github.io/raw/master/TWRP-3.2.2-0704-LENOVO_TB8X04F-CN-wzsx150-fastboot.7z" title="刷机解锁助手（TWRP）下载">刷机解锁助手（TWRP）下载</a>
+
 # <a href="https://drive.google.com/open?id=1-9__ZQhsvGwhNf4YKPGK90t71XLeVvE4" target="_blank_blank" title="官方破解版免费下载（EDU）">官方破解版免费下载</a>
 
 <a href="https://drive.google.com/open?id=1-nb82cBzH_zPGV1gM366Ta5jJunA1tRn" target="_blank_blank_blank_blank" title="领创原版系统高速下载(IFY)">领创系统高速下载</a>
