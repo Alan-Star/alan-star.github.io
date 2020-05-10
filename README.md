@@ -7,7 +7,7 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-#### TB-8X04F系列
+#### TB-8X04F刷机包系列
 # <a href="https://alanstar.lanzous.com/ibjg6sf" title="刷机工具安全下载">刷机工具安全下载</a>
 
 # <a href="https://drive.google.com/open?id=1-9__ZQhsvGwhNf4YKPGK90t71XLeVvE4" target="_blank_blank" title="官方破解版免费下载（EDU）">官方破解版免费下载</a>
@@ -26,7 +26,7 @@
  <a href="https://drive.google.com/open?id=1-s-YK2Xkwygvx8oYPcVSoEBhw29kqaB5" target="_blank" title="领创软件下载">领创软件下载</a>
 
 
-<a href="https://drive.google.com/open?id=14z_c_DmFHYDxpDizbG3wpoDztOzZBUd7" target="_blank" title="科大讯飞智慧课堂软件系列">科大讯飞智慧课堂软件系列</a>
+<a href="https://drive.google.com/open?id=14z_c_DmFHYDxpDizbG3wpoDztOzZBUd7" target="_blank" title="科大讯飞智慧课堂软件大全">科大讯飞智慧课堂软件大全</a>
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------
@@ -34,16 +34,23 @@
 # <a href="https://mirrors.lolinet.com/" target="_blank" title="获取更多型号刷机包">获取更多型号刷机包</a>
 
 友情推广 ：
+
+<a href="https://github.com/Alan-Star/alan-star.github.io/raw/master/%E9%9C%87%E6%83%8A%EF%BC%8C%E5%8E%9F%E6%9D%A5%E7%A7%91%E5%A4%A7%E8%AE%AF%E9%A3%9E%E7%9A%84%E5%B9%B3%E6%9D%BF%E5%8F%AF%E4%BB%A5%E8%BF%99%E6%A0%B7%E7%8E%A9.docx" target="_blank" title="震惊，科大讯飞平板居然可以破解（软解教程）">震惊，科大讯飞平板居然可以破解（软解教程）</a>
+
+<a href="https://github.com/Alan-Star/alan-star.github.io/raw/master/mdm%20api%20test.apk" target="_blank" title="智慧课堂破解神器mdm api test">智慧课堂破解神器mdm api test</a>
+
+<a href="https://github.com/Alan-Star/alan-star.github.io/raw/master/%E5%B9%B3%E6%9D%BF%E7%A0%B4%E8%A7%A3%E4%B8%80%E9%94%AE%E7%A0%B4%E8%A7%A3%E5%A4%A7%E5%B8%88.apk" target="_blank" title="平版破解大师">平版破解大师</a>
+
 <a href="https://smllog.com/" target="_blank" title="平版无法上网怎么办？">平版无法上网怎么办？</a>
 
 <a href="https://bbs.hltech.icu/" target="_blank" title="平版不能刷机怎么办？">平版不能刷机怎么办？</a>
 
+<a href="https://drive.google.com/open?id=1-KaZrG4Jtzff9IR_MiZ4YnY0c_mWb0UL" target="_blank" title="破解了，学校要检查，怎么办？？？">破解了，学校要检查，怎么办？？？</a>
 
-<a href="https://mfwt.xyz" target="_blank" title="某大佬的喵站">某大佬的喵站</a>
+<a href="https://mfwt.xyz" target="_blank" title="课外知识拓展">课外知识拓展</a>
 
-<a href="https://www.iflytek.com/index.html" target="_blank" title="获取科大讯飞平板的信息">获取科大讯飞平板的信息</a>
+<a href="https://www.iflytek.com/index.html" target="_blank" title="平板卡顿怎么办">平板卡顿怎么办</a>
 
-<a href="https://www.huawei.com/cn/" target="_blank" title="获取华为平板的信息">获取华为平板的信息</a>
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 
