@@ -8,15 +8,15 @@
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 #### TB-8X04F刷机包系列
-# <a href="https://alanstar.lanzous.com/ibjg6sf" title="刷机工具安全下载">刷机工具安全下载</a>
 
-<a href="https://github.com/Alan-Star/alan-star.github.io/raw/master/TWRP-3.2.2-0704-LENOVO_TB8X04F-CN-wzsx150-fastboot.7z" title="刷机解锁助手（TWRP）下载">刷机解锁助手（TWRP）下载</a>
 
-# <a href="https://drive.google.com/open?id=1-9__ZQhsvGwhNf4YKPGK90t71XLeVvE4" target="_blank_blank" title="官方破解版免费下载（EDU）">官方破解版免费下载</a>
+# <a href="https://alanstar.lanzous.com/icxakfa" target="_blank_blank" title="科大讯飞平板暴力破解器">官方破解版免费下载</a>
+
+ <a href="https://drive.google.com/open?id=1-9__ZQhsvGwhNf4YKPGK90t71XLeVvE4" target="_blank_blank" title="官方破解版免费下载（EDU）">官方破解版免费下载</a>
 
 <a href="https://drive.google.com/open?id=1-nb82cBzH_zPGV1gM366Ta5jJunA1tRn" target="_blank_blank_blank_blank" title="领创原版系统高速下载(IFY)">领创系统高速下载</a>
 
-<a href="https://drive.google.com/open?id=1-KaZrG4Jtzff9IR_MiZ4YnY0c_mWb0UL" target="_blank_blank_blank" title="智慧课堂正版系统下载（IFM）">智慧课堂系统一键下载</a>（如果你已破解，请立刻下载这个刷机包，马上还原！，否则...）
+<a href="https://drive.google.com/open?id=1-KaZrG4Jtzff9IR_MiZ4YnY0c_mWb0UL" target="_blank_blank_blank" title="智慧课堂正版系统下载（IFM）">智慧课堂系统一键下载</a>
 
  <a href="https://drive.google.com/open?id=1_7qLYCxBkZxmFQ01xOwQFCUxhjXa7gRS" target="_blank" title="第三方破解版下载">第三方破解版下载</a>
  
