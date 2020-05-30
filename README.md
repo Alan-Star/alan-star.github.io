@@ -10,7 +10,6 @@
 #### TB-8X04F刷机包系列
 
 
-# <a href="https://alanstar.lanzous.com/icxbb2j" target="_blank_blank" title="科大讯飞平板暴力破解器">科大讯飞平板暴力破解器</a>
 
  <a href="https://drive.google.com/open?id=1-9__ZQhsvGwhNf4YKPGK90t71XLeVvE4" target="_blank_blank" title="官方破解版免费下载（EDU）">官方破解版免费下载</a>
 
