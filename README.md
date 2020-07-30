@@ -9,14 +9,16 @@
 
 #### TB-8X04F刷机包系列
 I.  TB-8X04F 9008线刷包。优点：脚本一键刷机，应用齐全,推荐下载
-<a href="https://pan.baidu.com/s/1-vPpIeziO8GyzxCKX1Km4A" target="_blank" title="百度云链接">百度云链接</a>    提取码: h2k2
-
- <a href="https://drive.google.com/file/d/1olprA6vzLFtjxfLyjDLF0NDvdITqaLS_/view?usp=sharing" target="_blank" title="谷歌云链接">谷歌云链接</a>
+<a href="https://pan.baidu.com/s/1-vPpIeziO8GyzxCKX1Km4A" target="_blank" title="百度云链接提取码: h2k2">百度云链接提取码: h2k2</a>  
+<a href="https://drive.google.com/file/d/1olprA6vzLFtjxfLyjDLF0NDvdITqaLS_/view?usp=sharing" target="_blank" title="谷歌云链接">谷歌云链接</a>
  
  教程:1.下载第一个刷机包,
       2.解压,点击一键刷机(此操作会清空所以数据,请备份数据,推荐备份软件：QFIL)
       3.拆机，松开黑色的电源排线，短接，刷机
       4.结束后长按开机
+
+
+
 
 <img src="https://s1.ax1x.com/2020/07/30/auXj9x.md.jpg" alt="Pulpit rock" width="227" height="294">
 ------------------------------------------------------------------------------------------------------------------------------------------
