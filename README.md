@@ -8,16 +8,22 @@
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 #### TB-8X04F刷机包系列
+I.  TB-8X04F 9008线刷包。优点：脚本一键刷机，应用齐全,推荐下载
+<a href="https://pan.baidu.com/s/1-vPpIeziO8GyzxCKX1Km4A" target="_blank" title="百度云链接">百度云链接</a>    提取码: h2k2
+
+ 
+
+谷歌云
 
 
+------------------------------------------------------------------------------------------------------------------------------------------
 
- <a href="https://drive.google.com/open?id=1-9__ZQhsvGwhNf4YKPGK90t71XLeVvE4" target="_blank_blank" title="官方破解版免费下载（EDU）">官方破解版免费下载</a>
+II.  LineageOS卡刷包。优点：内存占用小，速度快，搭载Android 9.0 。缺点：后摄像头不能正常使用，大佬可以体验 
 
-<a href="https://drive.google.com/open?id=1-nb82cBzH_zPGV1gM366Ta5jJunA1tRn" target="_blank_blank_blank_blank" title="领创原版系统高速下载(IFY)">领创系统高速下载</a>
 
-<a href="https://drive.google.com/open?id=1-KaZrG4Jtzff9IR_MiZ4YnY0c_mWb0UL" target="_blank_blank_blank" title="智慧课堂正版系统下载（IFM）">智慧课堂系统一键下载</a>
+请点击下方谷歌云链接下载
 
- <a href="https://drive.google.com/open?id=1_7qLYCxBkZxmFQ01xOwQFCUxhjXa7gRS" target="_blank" title="第三方破解版下载">第三方破解版下载</a>
+<a href="https://drive.google.com/open?id=1_7qLYCxBkZxmFQ01xOwQFCUxhjXa7gRS" target="_blank" title="LineageOS for TB-8X04F">LineageOS for TB-8X04F</a>
  
 
 
