@@ -11,17 +11,18 @@
 I.  TB-8X04F 9008线刷包。优点：脚本一键刷机，应用齐全,推荐下载
 <a href="https://pan.baidu.com/s/1-vPpIeziO8GyzxCKX1Km4A" target="_blank" title="百度云链接">百度云链接</a>    提取码: h2k2
 
+ <a href="https://drive.google.com/file/d/1olprA6vzLFtjxfLyjDLF0NDvdITqaLS_/view?usp=sharing" target="_blank" title="谷歌云链接">谷歌云链接</a>
  
+ 教程:1.下载第一个刷机包,
+      2.解压,点击一键刷机(此操作会清空所以数据,请备份数据,推荐备份软件：QFIL)
+      3.拆机，松开黑色的电源排线，短接，刷机
+      4.结束后长按开机
 
-谷歌云
-<img src="https://s1.ax1x.com/2020/07/30/auXj9x.md.jpg" alt="短接图">
-
+<img src="https://s1.ax1x.com/2020/07/30/auXj9x.md.jpg" alt="Pulpit rock" width="227" height="294">
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 II.  LineageOS卡刷包。优点：内存占用小，速度快，搭载Android 9.0 。缺点：后摄像头不能正常使用，大佬可以体验 
 
-
-请点击下方谷歌云链接下载
 
 <a href="https://drive.google.com/open?id=1_7qLYCxBkZxmFQ01xOwQFCUxhjXa7gRS" target="_blank" title="LineageOS for TB-8X04F">LineageOS for TB-8X04F</a>
  
