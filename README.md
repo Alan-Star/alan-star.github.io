@@ -57,7 +57,7 @@ II.  LineageOS卡刷包。优点：内存占用小，速度快，搭载Android 9
 
 <a href="https://drive.google.com/open?id=1-KaZrG4Jtzff9IR_MiZ4YnY0c_mWb0UL" target="_blank" title="破解了，学校要检查，怎么办？？？">破解了，学校要检查，怎么办？？？</a>
 
-<a href="https://mfwt.xyz" target="_blank" title="课外知识拓展">课外知识拓展</a>
+<a href="https://ink.mfwt.xyz/" target="_blank" title="课外知识拓展">课外知识拓展</a>
 
 <a href="https://www.iflytek.com/index.html" target="_blank" title="平板异常卡顿怎么办">平板异常卡顿怎么办</a>
 
