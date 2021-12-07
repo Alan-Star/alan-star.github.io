@@ -1,81 +1,12 @@
-## 勇士，欢迎你来到讯飞平板资源下载站#
+## 勇士，欢迎你来到贪吃蛇世界#
 
-本站资源仅供学习研究，可以适当拓展学校的平板的功能，请谨慎使用！
-
-在使用过程中产生的一切 设备损坏与人员伤亡与站长无关
-
-
-----------------------------------------------------------------------------------------------------------------------------------------
-
-#### TB-8X04F刷机包系列
-I.  TB-8X04F 9008线刷包。优点：脚本一键刷机，应用齐全,推荐下载
-<a href="https://pan.baidu.com/s/1-vPpIeziO8GyzxCKX1Km4A" target="_blank" title="百度云链接提取码: h2k2">百度云链接提取码: h2k2</a>  
-<a href="https://drive.google.com/file/d/1olprA6vzLFtjxfLyjDLF0NDvdITqaLS_/view?usp=sharing" target="_blank" title="谷歌云链接">谷歌云链接</a>
- 
- 教程:1.下载第一个刷机包,
-      2.解压,点击一键刷机(此操作会清空所以数据,请备份数据,推荐备份软件：QFIL)
-      3.拆机，松开黑色的电源排线，短接，刷机
-      4.结束后长按开机
+---------------------------------------------------------------------------------------------
+这是贪吃蛇1.0版本
+<a href="https://github.com/Alan-Star/Snake/releases" target="_blank" title="贪吃蛇">贪吃蛇</a>
+暂无更新！！！
+预计下一个版本会有双人对战，AI对战，GUI界面，青少年反沉迷认证等现代化特性 敬请期待！！
 
 
 
-
-<img src="https://s1.ax1x.com/2020/07/30/auXj9x.md.jpg" alt="Pulpit rock" width="227" height="294">
-------------------------------------------------------------------------------------------------------------------------------------------
-
-II.  LineageOS卡刷包。优点：内存占用小，速度快，搭载Android 9.0 。缺点：后摄像头不能正常使用，大佬可以体验 
-
-
-<a href="https://drive.google.com/open?id=1_7qLYCxBkZxmFQ01xOwQFCUxhjXa7gRS" target="_blank" title="LineageOS for TB-8X04F">LineageOS for TB-8X04F</a>
- 
-
-
-----------------------------------------------------------------------------------------------------------------------------------------
-科大讯飞软件系列
-
- <a href="https://drive.google.com/open?id=1-s-YK2Xkwygvx8oYPcVSoEBhw29kqaB5" target="_blank" title="领创软件下载">领创软件下载</a>
-
-
-<a href="https://drive.google.com/open?id=14z_c_DmFHYDxpDizbG3wpoDztOzZBUd7" target="_blank" title="科大讯飞智慧课堂软件大全">科大讯飞智慧课堂软件大全</a>
-
-
----------------------------------------------------------------------------------------------------------------------------------------
-
-# <a href="https://mirrors.lolinet.com/" target="_blank" title="获取更多型号刷机包">获取更多型号刷机包</a>
-
-友情推广 ：
-
-<a href="https://github.com/Alan-Star/alan-star.github.io/raw/master/%E9%9C%87%E6%83%8A%EF%BC%8C%E5%8E%9F%E6%9D%A5%E7%A7%91%E5%A4%A7%E8%AE%AF%E9%A3%9E%E7%9A%84%E5%B9%B3%E6%9D%BF%E5%8F%AF%E4%BB%A5%E8%BF%99%E6%A0%B7%E7%8E%A9.docx" target="_blank" title="震惊，科大讯飞平板居然可以破解（软解教程）">震惊，科大讯飞平板居然可以破解（软解教程）</a>
-
-
-
-<a href="https://github.com/Alan-Star/alan-star.github.io/raw/master/%E5%B9%B3%E6%9D%BF%E7%A0%B4%E8%A7%A3%E4%B8%80%E9%94%AE%E7%A0%B4%E8%A7%A3%E5%A4%A7%E5%B8%88.apk" target="_blank" title="平版破解大师">平版破解大师</a>
-
-<a href="https://smllog.com/" target="_blank" title="平版无法上B站怎么办？">平版无法上B站怎么办？</a>
-
-<a href="https://bbs.hltech.icu/" target="_blank" title="平版被禁止刷机怎么办？">平版被禁止刷机怎么办？</a>
-
-<a href="https://drive.google.com/open?id=1-KaZrG4Jtzff9IR_MiZ4YnY0c_mWb0UL" target="_blank" title="破解了，学校要检查，怎么办？？？">破解了，学校要检查，怎么办？？？</a>
-
-<a href="https://mfwt.xyz" target="_blank" title="课外知识拓展">课外知识拓展</a>
-
-<a href="https://www.iflytek.com/index.html" target="_blank" title="平板异常卡顿怎么办">平板异常卡顿怎么办</a>
-
-----------------------------------------------------------------------------------------------------------------------------------------
-
-
-
-## 下载时请检查网络配置是否正确
-
-
-联系站长：
-
-github: Alan-Star issue评论
-
-邮箱：alanstar388@gmail.com
-本站仅提供技术爱好者学习交流！！
-
-
-## 本站站长没有参与任何破解研发，只是从网上收集了相关资源，所以不接受任何捐助！
 
 
