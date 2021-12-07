@@ -4,6 +4,7 @@
 这是贪吃蛇1.0版本
 <a href="https://github.com/Alan-Star/Snake/releases" target="_blank" title="贪吃蛇">贪吃蛇</a>
 暂无更新！！！
+
 预计下一个版本会有双人对战，AI对战，GUI界面，青少年反沉迷认证等现代化特性 敬请期待！！
 
 
